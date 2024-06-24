@@ -1,0 +1,22 @@
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle C#\DS 1 2021\DS1\DS1\bin\Debug\DS1.exe.config
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle C#\DS 1 2021\DS1\DS1\bin\Debug\DS1.exe
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle C#\DS 1 2021\DS1\DS1\bin\Debug\DS1.pdb
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle C#\DS 1 2021\DS1\DS1\obj\Debug\DS1.csproj.AssemblyReference.cache
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle C#\DS 1 2021\DS1\DS1\obj\Debug\DS1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle C#\DS 1 2021\DS1\DS1\obj\Debug\DS1.Form1.resources
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle C#\DS 1 2021\DS1\DS1\obj\Debug\DS1.Properties.Resources.resources
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle C#\DS 1 2021\DS1\DS1\obj\Debug\DS1.csproj.GenerateResource.cache
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle C#\DS 1 2021\DS1\DS1\obj\Debug\DS1.csproj.CoreCompileInputs.cache
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle C#\DS 1 2021\DS1\DS1\obj\Debug\DS1.exe
+C:\Users\jerbi\Documents\1 BI\semestre 2\programmation evementielle C#\DS 1 2021\DS1\DS1\obj\Debug\DS1.pdb
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\DS 1 2021\DS1\DS1\bin\Debug\DS1.exe.config
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\DS 1 2021\DS1\DS1\bin\Debug\DS1.exe
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\DS 1 2021\DS1\DS1\bin\Debug\DS1.pdb
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\DS 1 2021\DS1\DS1\obj\Debug\DS1.csproj.AssemblyReference.cache
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\DS 1 2021\DS1\DS1\obj\Debug\DS1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\DS 1 2021\DS1\DS1\obj\Debug\DS1.Form1.resources
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\DS 1 2021\DS1\DS1\obj\Debug\DS1.Properties.Resources.resources
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\DS 1 2021\DS1\DS1\obj\Debug\DS1.csproj.GenerateResource.cache
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\DS 1 2021\DS1\DS1\obj\Debug\DS1.csproj.CoreCompileInputs.cache
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\DS 1 2021\DS1\DS1\obj\Debug\DS1.exe
+C:\Users\jerbi\Documents\1ère année Business Intelligence IHEC Carthage\semestre 2\programmation evementielle C#\DS 1 2021\DS1\DS1\obj\Debug\DS1.pdb
